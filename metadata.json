@@ -1,0 +1,5 @@
+{
+  "name": "AI Audio Studio",
+  "description": "A high-performance text-to-speech studio using Gemini 2.5 Flash TTS with offline storage, visualizers, and customizable reading modes.",
+  "requestFramePermissions": []
+}
