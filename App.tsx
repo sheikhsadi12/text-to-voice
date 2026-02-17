@@ -199,10 +199,10 @@ const App: React.FC = () => {
         <div className="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center font-bold text-lg shadow-lg shadow-blue-500/20">A</div>
-            <h1 className="text-xl font-bold tracking-tight">AI Audio Studio</h1>
+            <h1 className="text-xl font-bold tracking-tight">Mutu Audio Studio</h1>
           </div>
           <div className="flex items-center gap-4">
-            <span className="text-xs text-slate-500 uppercase tracking-widest font-semibold">Gemini 2.5 Flash</span>
+            <span className="text-xs text-slate-500 uppercase tracking-widest font-semibold">Mutu AI </span>
           </div>
         </div>
       </nav>
